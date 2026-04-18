@@ -1,5 +1,3 @@
-Вот пост на тему создания презентаций в том же стиле:
-
 ---
 
 title: Создание презентаций
@@ -11,13 +9,13 @@ caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 
 authors:
 
-* admin
+- admin
 
 tags:
 
-* Academic
-* Student Life
-* Presentation Skills
+- Academic
+- Student Life
+- Presentation Skills
 
 ---
 
